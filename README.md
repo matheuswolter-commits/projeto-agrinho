@@ -33,14 +33,7 @@ O projeto foi construído utilizando as seguintes tecnologias básicas da web:
 * **CSS3:** Para deixar o visual moderno, bonito e organizado.
 * **JavaScript:** Para colocar interatividade e animações na página.
 
----
 
-## 📸 Demonstração
-
-> [!TIP]
-> Quando o seu site estiver pronto, tire um print da tela e coloque a imagem aqui para valorizar o seu projeto!
-
----
 
 ## 📦 Como Executar o Projeto
 
@@ -52,4 +45,4 @@ Como o projeto usa tecnologias simples da web, você só precisa de um navegador
 
 
 
-Desenvolvido por (https://github.com/seu-usuario)
+Desenvolvido por (https://github.com/matheuswolter-commits)
